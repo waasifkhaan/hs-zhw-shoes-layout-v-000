@@ -33,9 +33,8 @@
   width: 66%;
   
 }
-.col-1 {
-  float: left;
-  width: 32%;
+.col-3 {
+  
   
 }
 [class*="col-"]{
