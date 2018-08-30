@@ -30,11 +30,12 @@
 }
 .col-2 {
   float: left;
-  width: 66%;
+  width: 64%;
   
 }
 .col-3 {
-  background: #ccc
+  float: right;
+  width: 32%;
 }
 [class*="col-"]{
   margin-left: 2%;
