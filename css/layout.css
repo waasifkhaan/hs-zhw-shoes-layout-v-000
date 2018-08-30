@@ -34,8 +34,7 @@
   
 }
 .col-3 {
-  
-  
+  background: #ccc
 }
 [class*="col-"]{
   margin-left: 2%;
